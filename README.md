@@ -30,4 +30,4 @@
 ### 🤝 Awesome people I've met
 
 <a href="https://github.com/FantomStudy"><img src="https://images.weserv.nl/?url=github.com/FantomStudy.png?size=200&w=200&h=200&fit=cover&mask=circle&output=png" width="50" height="50" alt="FantomStudy" /></a>
-<a href="https://github.com/cutecruelty"><img src="https://images.weserv.nl/?url=github.com/cutecruelty.png?size=200&w=200&h=200&fit=cover&mask=circle&output=png" width="50" height="50" alt="cutecruelty" /></a>
+<a href="https://github.com/doppelherz-o"><img src="https://images.weserv.nl/?url=github.com/doppelherz-o.png?size=200&w=200&h=200&fit=cover&mask=circle&output=png" width="50" height="50" alt="doppelherz" /></a>
