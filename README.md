@@ -27,15 +27,6 @@
 
 ---
 
-### ✨ My projects
-
-| Project                                                            | Description                          | Technologies                       |
-| ------------------------------------------------------------------ | ------------------------------------ | ---------------------------------- |
-| **[Thynel (frontend)](https://github.com/tux3ry/thynel-frontend)** | PWA audio player, local-first        | `solidjs`, `typescript`, `unocss`  |
-| **[SolidJS Starter](https://github.com/tux3ry/solidjs-starter)**   | Minimal, opinionated SolidJS starter | `solidjs`, `vite`, `unocss`, `oxc` |
-
----
-
 ### 🤝 Awesome people I've met
 
 <a href="https://github.com/FantomStudy"><img src="https://images.weserv.nl/?url=github.com/FantomStudy.png?size=200&w=200&h=200&fit=cover&mask=circle&output=png" width="50" height="50" alt="FantomStudy" /></a>
